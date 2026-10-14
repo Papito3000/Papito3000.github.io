@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+.galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.producto{
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 220px;
+    box-shadow: 0 0 10px gray;
+}
+
+.producto img{
+    width: 100%;
+}
+button{
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: darkgreen;
+}

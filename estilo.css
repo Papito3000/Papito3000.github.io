@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHK_D-PwsO-fkXQsGhIHyBJWkzam1TKeU8QXoIMWZXw&s=10");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
